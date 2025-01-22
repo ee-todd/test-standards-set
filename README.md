@@ -13,3 +13,5 @@ Each file below contains coding standards specific to a programming language or 
 - [Python Coding Standards](python_coding_standards.md)
 - [.NET Coding Standards](dotnet_coding_standards.md)
 - [Java Coding Standards](java_coding_standards.md)
+- [Javascript Coding Standards](javascript_coding_standards.md)
+- [Node.js Coding Standards](nodejs_coding_standards.md)
